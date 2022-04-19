@@ -10,7 +10,7 @@ function main(currentTime){
 
     if(gameOver){
         if(confirm("You Lost Press OK To Restart")){
-            window.location = 'nixt4523.github.io/snakeGame/index.html';
+            window.location = '/index.html';
         }
         return
     }
